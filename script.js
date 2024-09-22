@@ -82,11 +82,11 @@ function waitAndResponce(inputText) {
         //     sendTextMessage(resumeString);
         //     break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing MCA.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>C<br>C#<br>PHP<br>C++<br>Javascript<br>SQL<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>Android<br>Flutter<br>ReactJs<br>GTK</span><br><br>I use <span class='bold'>Arch Linux</span> as daily driver on my HP Pavilion 15-ec0xxx<br>OS:Arch Linux<br>DE:Gnome(More often) Kde(often)<br>Favourite IDE:VSCode</span>");
+            sendTextMessage("<span class='sk'>I am currently pursuing MCA.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>ReactJS<br>C<br>C++<br>Javascript<br>SQL<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>ReactJs</span><br><br>Favourite IDE:VSCode</span>");
             break;
 
         case "education":
-            sendTextMessage("I am currently pusuing MCA from ABES Engineering College<br>Passing Year : 2025<br><br>I have completed BCA from Deen Dayal Upadhyaya Gorakhpur University<br>Passing Year:2023<br>Result:Awaited<br><br>I have completed my Intermediate from Central Public academy<br>Passing Year:2019");
+            sendTextMessage("I am currently pusuing MCA from ABES Engineering College<br>Passing Year : 2025<br><br>I have completed BCA from Deen Dayal Upadhyaya Gorakhpur University<br>Passing Year:2023<br>Result:78.33%<br><br>I have completed my Intermediate from Central Public academy<br>Passing Year:2019");
             break;
 
         case "address":
